@@ -14,3 +14,5 @@ defaults:
         layout: "page"
 gems:
   - jekyll-sitemap
+
+theme: jekyll-theme-tactile
