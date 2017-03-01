@@ -15,4 +15,4 @@ defaults:
 gems:
   - jekyll-sitemap
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-time-machine
