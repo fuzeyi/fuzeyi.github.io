@@ -1,18 +1,4 @@
 title:FuZeyi’s Blog
-description: ~
-my-pages:
-  - title: Demos & Tools
-    url: /demos-and-tools.html
-links:
-  - title: GitHub
-    url: https://fuzeyi.github.io/
-defaults:
-  - scope:
-        path: ""
-        type: "posts"
-    values:
-        layout: "page"
-gems:
-  - jekyll-sitemap
+ 
 
 theme: jekyll-theme-time-machine
