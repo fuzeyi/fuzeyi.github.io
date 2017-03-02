@@ -1,5 +1,38 @@
-title: Time Machine theme
-description: Time Machine is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: 
+# Site settings
+name: fuzeyi
+email: 706596204@qq.com
+author: Fu Zeyi
+url: https://fuzeyi.github.io/
+resume_site: https://fuzeyi.github.io/
+github: https://github.com/fuzeyi/
+baseurl: ""
+description: 不流俗，不盲从，不负此生!
+meta_description: 付泽义;个人博客;不流俗，不盲从，不负此生！
+motto: Not the remorse, not blindly follow, not in this lifetime.
+banner: 不流俗，不盲从，不负此生。
+encoding: utf-8
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: luoyan35714
+highlighter: Pygments
+
+# Build settings
+markdown: kramdown
+
+FB:
+  comments :
+    #provider : duoshuo
+    #duoshuo:
+      #   short_name : luoyan35714
+     #disqus :
+        # short_name : freudkang
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
