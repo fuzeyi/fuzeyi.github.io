@@ -12,9 +12,7 @@ header: 打赏
 
 如果在你开发或学习过程中本博客帮助到了你...
 
-你可以对本博客[小额赞助]({{ '/donate/method' | prepend: site.baseurl }})一下，让我有动力继续写出更高质量的文章。
-
-点击上面小额赞助即可呦！
+我会很高兴的...
 <br>
 
 ![Thank you very much!]({{ '/styles/images/freud.jpg' | prepend: site.baseurl }})
