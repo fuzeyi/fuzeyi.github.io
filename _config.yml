@@ -11,6 +11,7 @@ meta_description: 付泽义;个人博客;不流俗，不盲从，不负此生！
 motto: Not the remorse, not blindly follow, not in this lifetime.
 banner: 不流俗，不盲从，不负此生。
 encoding: utf-8
+highlighter: rouge
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
