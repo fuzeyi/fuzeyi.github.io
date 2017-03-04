@@ -2,16 +2,12 @@
 layout: post
 title:  如何使用Jekyll模板(2) - 配置样式、分类、标签
 date:   2017-03-02 23:06:00 +0800
-categories: document
-tag: 教程
+categories: Document
+tag: Jekyll
 ---
 
 * content
 {:toc}
-
-
-样式、分类、标签
-====================================
 
 分类
 ------------------------------------
@@ -46,7 +42,11 @@ tags: [github-page, jekyll, liquid]
 $ git clone https://github.com/plusjade/jekyll-bootstrap.git
 {% endhighlight %}
 
-
+Jekyll社区
+------------------------------------
+中文社区:[http://jekyll.com.cn/](http://jekyll.com.cn/)<br/>
+英文社区:[http://jekyllrb.com/](http://jekyllrb.com/)  
+ 
 
  
 

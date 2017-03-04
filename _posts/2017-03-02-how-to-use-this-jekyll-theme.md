@@ -2,8 +2,8 @@
 layout: post
 title:  如何使用Jekyll模板(1) - 如：LessOrMore
 date:   2017-03-02 22:15:00 +0800
-categories: document
-tag: 教程
+categories: Document
+tag: Jekyll
 ---
 
 * content
@@ -90,7 +90,7 @@ jekyll server
 
 效果
 ------------------------------------
-打开浏览器并输入URL`http://localhost:4000/`,回车。
+打开浏览器并输入URL[http://localhost:4000/](http://localhost:4000/),回车。
 
 
  

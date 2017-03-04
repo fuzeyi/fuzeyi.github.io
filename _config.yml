@@ -13,8 +13,8 @@ banner: 不流俗，不盲从，不负此生。
 encoding: utf-8
 highlighter: rouge
 
-#permalink: /:categories/:year/:month/:day/:title/
-permalink: /:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
+#permalink: /:year/:month/:day/:title/
 paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
