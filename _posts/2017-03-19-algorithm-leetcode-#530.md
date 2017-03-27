@@ -3,7 +3,7 @@ layout: post
 title: LeetCode-#530-求二叉排序树的最小绝对差
 date:   2017-03-19 20:45:00 +0800
 categories: Algorithm
-tag: 树
+tag: LeetCode
  
 ---
 

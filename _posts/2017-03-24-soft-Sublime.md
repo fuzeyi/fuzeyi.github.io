@@ -109,3 +109,32 @@ Html格式化，右键Auto-Format Tags on Ducument。一般是用ctrl +Alt +F �
 {% highlight  bash%}
 FTP ssh上传配置，安装成功配置一下host等就可以了！
 {% endhighlight %}
+
+**ConvertToUTF8**
+{% highlight  bash%}
+可以解决Sublime Text 在GBK编码下的中文乱码问题！
+{% endhighlight %}
+
+4.Sublime常见问题解决方案
+------------------------------------
+**Sublime中文文件名显示乱码**
+
+>在sublime text 3中，打开Preference -> Settings，在文件最后加上一行：
+"dpi_scale": 1.0
+{% highlight bash %}
+例如：
+{
+"font_face": "Consolas",
+"font_size": 15,
+"ignored_packages":
+[
+"Vintage"
+],
+"line_padding_bottom": 1,
+"line_padding_top": 1,
+"tab_size": 4,
+"translate_tabs_to_spaces": true,
+"word_wrap": "true",
+"dpi_scale": 1.0 #主要是这行生效！
+}
+{% endhighlight %}
